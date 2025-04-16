@@ -1,0 +1,28 @@
+img{
+    border-radius: 10px;
+    width: 120px;
+
+}
+body{
+    background-color: aquamarine;
+    font-family: "Ubuntu Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+.container{
+    margin: auto;
+    width: 1000px;
+    text-align: center;
+    
+}
+.dice {
+    text-align: center;
+    display: inline-block;
+    /* padding: 20px; */
+    margin:10px;
+  
+  }
